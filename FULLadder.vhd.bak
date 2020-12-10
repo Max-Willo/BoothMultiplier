@@ -46,8 +46,8 @@ architecture HalfAdder_A of HalfAdder is
 	P3: OR2 port map (c_tmp1, c_tmp2, carryout);
 
 	--Sum
-	P4: XOR2 port map(A, B, s_tmp1);
-	P5: XOR2 port map(s_tmp1, Cin, sum);
+	P4: XOR2 port map(A, B, s_tmp);
+	P5: XOR2 port map(s_tmp, Cin, sum);
 	
 
 end HalfAdder_A;

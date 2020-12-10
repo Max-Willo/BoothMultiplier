@@ -1,16 +1,16 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
-entity HalfAdder is
+entity FullAdder is
 	port	
 	(
 		A, B, Cin: in std_logic;
 		carryout, sum: out std_logic
 	);
-end HalfAdder;
+end FullAdder;
 
 
-architecture HalfAdder_A of HalfAdder is
+architecture FullAdder_A of FullAdder is
 
 	signal s_tmp, c_tmp1, c_tmp2, c_tmp3 : std_logic;
 
@@ -50,4 +50,4 @@ architecture HalfAdder_A of HalfAdder is
 	P5: XOR2 port map(s_tmp, Cin, sum);
 	
 
-end HalfAdder_A;
+end FullAdder_A;
