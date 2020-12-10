@@ -1,0 +1,54 @@
+# Reading C:/modelsim_dlx64_2019.1/tcl/vsim/pref.tcl
+# Loading project asdf
+# reading C:/modelsim_dlx64_2019.1/win64pe/../modelsim.ini
+# Loading project BoothMultiplier
+# Compile of and_gate.vhd was successful.
+# Compile of nand2_gate.vhd was successful.
+# Compile of nand3_gate.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of dflipflop.vhd was successful.
+# Compile of HalfAdder.vhd was successful.
+# 8 compiles, 0 failed with no errors.
+# Compile of and_gate.vhd was successful.
+# Compile of nand2_gate.vhd was successful.
+# Compile of nand3_gate.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of dflipflop.vhd was successful.
+# Compile of HalfAdder.vhd was successful.
+# Compile of FullAdder.vhd failed with 1 errors.
+# 9 compiles, 1 failed with 1 error.
+# Compile of and_gate.vhd was successful.
+# Compile of nand2_gate.vhd was successful.
+# Compile of nand3_gate.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of dflipflop.vhd was successful.
+# Compile of HalfAdder.vhd was successful.
+# Compile of FullAdder.vhd failed with 1 errors.
+# 9 compiles, 1 failed with 1 error.
+# Compile of and_gate.vhd was successful.
+# Compile of nand2_gate.vhd was successful.
+# Compile of nand3_gate.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of dflipflop.vhd was successful.
+# Compile of HalfAdder.vhd was successful.
+# Compile of FullAdder.vhd failed with 2 errors.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of and_gate.vhd was successful.
+# Compile of nand2_gate.vhd was successful.
+# Compile of nand3_gate.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of dflipflop.vhd was successful.
+# Compile of HalfAdder.vhd was successful.
+# Compile of FullAdder.vhd was successful.
+# 9 compiles, 0 failed with no errors.
+quit

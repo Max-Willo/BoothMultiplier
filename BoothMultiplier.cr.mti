@@ -1,0 +1,73 @@
+C:/modelsim_dlx64_2019.1/examples/FullAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/FULLadder.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HalfAdder
+-- Compiling architecture HalfAdder_A of HalfAdder
+
+} {} {}} C:/modelsim_dlx64_2019.1/examples/HalfAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/halfadder.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HalfAdder
+-- Compiling architecture HalfAdder_A of HalfAdder
+
+} {} {}} C:/modelsim_dlx64_2019.1/examples/and_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/and_gate.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND2
+-- Compiling architecture AND_arch of AND2
+
+} {} {}} C:/modelsim_dlx64_2019.1/examples/nand2_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/nand2_gate.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NAND2
+-- Compiling architecture NAND2_arch of NAND2
+
+} {} {}} C:/modelsim_dlx64_2019.1/examples/nand3_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/nand3_gate.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NAND3
+-- Compiling architecture NAND3_arch of NAND3
+
+} {} {}} C:/modelsim_dlx64_2019.1/examples/dflipflop.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/dflipflop.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dflipflop
+-- Compiling architecture dff_arch of dflipflop
+
+} {} {}} C:/modelsim_dlx64_2019.1/examples/not_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/not_gate.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOT1
+-- Compiling architecture NOT_arch of NOT1
+
+} {} {}} C:/modelsim_dlx64_2019.1/examples/or_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/or_gate.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OR2
+-- Compiling architecture OR_arch of OR2
+
+} {} {}} C:/modelsim_dlx64_2019.1/examples/xor_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_dlx64_2019.1/examples/xor_gate.vhd
+Model Technology ModelSim DE-64 vcom 2019.1 Compiler 2019.01 Jan  2 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity XOR2
+-- Compiling architecture XOR_arch of XOR2
+
+} {} {}}
